@@ -1,7 +1,8 @@
 # boredrobot
 
 It's a simple exercise from The Frontend Developer Career Path Course - Scrimba
-Call an API called The Bored API to give you an idea of something nice to do.
+
+It calls an API called The Bored API to give you an idea of something nice to do.
 
 ## About Scrimba
 
